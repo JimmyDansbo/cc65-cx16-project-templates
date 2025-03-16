@@ -1,1 +1,1 @@
-# cc65-cx16-project-templates
+# cc65/Commander X16 Project Templates
